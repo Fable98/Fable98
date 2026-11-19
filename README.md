@@ -2,7 +2,7 @@
 </div> 
 
 <div align="center">
-  <img src="https://i.pinimg.com/originals/2f/07/46/2f0746d5cd01c5e479d408e762826c23.gif" width="400">
+  <img src="/Users/shresthkumar/Fable98/assets/github prof gif.mp4" width="600">
 </div>
 
 ---

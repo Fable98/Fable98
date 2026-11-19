@@ -2,7 +2,11 @@
 </div> 
 
 <div align="center">
+<<<<<<< HEAD
   <img src="/Users/shresthkumar/Fable98/assets/github prof gif.mp4" width="600">
+=======
+  <img src="./assets/profile.gif" width="600" alt="Profile Banner">
+>>>>>>> 6782110 (chore: add gitignore and update profile banner asset in readme)
 </div>
 
 ---

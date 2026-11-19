@@ -1,5 +1,9 @@
-# 💫 About Me:
-# Hey, I'm Fable98 👋<br><br>I'm an Information Science and Engineering student passionate about software development, open source, and solving real-world problems through code.<br><br>### 🚀 Currently<br>- Exploring backend and full-stack development.<br>- Contributing to open-source projects like Meshery.<br>- Building projects around blockchain, data systems, and image processing.<br>- Practicing DSA and competitive programming.<br><br>### 🛠️ Tech Stack<br>**Languages:** C++, Java, Python, JavaScript, TypeScript, SQL<br><br>**Technologies:** React, Next.js, Node.js, Express, PostgreSQL, MongoDB, Redis, Docker<br><br>### 🤝 Let's Connect<br>Always open to interesting projects, open-source collaborations, and learning from fellow developers.<br><br>*Build. Break. Learn. Repeat.* ⚡
+# Hey, I'm Fable98 👋
+Information Science student | Developer | Open-Source Enthusiast
+-  Interested in software engineering, backend development & open source.
+-  Building projects and exploring new technologies.
+-  Always learning, experimenting, and solving problems.
+**Tech Stack:** C++ · Python · JavaScript · TypeScript · React · Node.js · PostgreSQL
 
 
 ## 🌐 Socials:

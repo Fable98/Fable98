@@ -57,8 +57,6 @@
 
 <div align="center">
 
-<div align="center">
-
 <table>
   <tr>
     <td align="center">
@@ -83,11 +81,3 @@
 </table>
 
 </div>
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020818,50:0a1628,100:00D4FF&height=110&section=footer&text=Code+the+vision.+Ship+the+product.&fontSize=16&fontAlignY=68&fontColor=ffffff" />
-
-</div>
-
----
